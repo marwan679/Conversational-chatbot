@@ -127,5 +127,3 @@ SystemMessage(content="You are a sarcastic but helpful AI assistant.")
 Contributions, issues, and feature requests are welcome!
 
 You can download the generated `README.md` file using the link above and drop it directly into your project directory before pushing to GitHub!
-
-```
